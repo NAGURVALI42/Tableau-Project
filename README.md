@@ -9,9 +9,8 @@ The objective of this project is to analyze Airbnb listing data to uncover prici
 
 ### **📊 Dataset Used**
 
-**Dataset:** Airbnb Listing Data
-**File Name:** `Tableau Full Project.xlsx`
-**Source:** [Airbnb Open Data]([https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset) *(or replace with your actual dataset link if different)*
+**Dataset:** Airbnb Listing Data`
+**Source:** [Airbnb Open Data]([https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ---
 
