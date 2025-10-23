@@ -1,5 +1,5 @@
 
-## Global Airbnb Trends Dashboard
+# Global Airbnb Trends Dashboard
 
 ### **Project Objective**
 
@@ -10,7 +10,6 @@ The objective of this project is to analyze Airbnb listing data to uncover prici
 ### **Dataset Used**
 
 **Dataset:** Airbnb Listing Data`
-**File Name:** Dataset
 **Source:** [Airbnb Open Data]([https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ---
