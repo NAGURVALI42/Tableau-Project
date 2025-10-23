@@ -1,20 +1,21 @@
 
-## 🏠 Global Airbnb Trends Dashboard
+## Global Airbnb Trends Dashboard
 
-### **📌 Project Objective**
+### **Project Objective**
 
 The objective of this project is to analyze Airbnb listing data to uncover pricing trends, geographic patterns, and revenue insights. The dashboard helps in understanding how factors such as the number of bedrooms, zip codes, and time influence average prices and revenues, enabling hosts and analysts to make data-driven decisions.
 
 ---
 
-### **📊 Dataset Used**
+### **Dataset Used**
 
 **Dataset:** Airbnb Listing Data`
+**File Name:** Dataset
 **Source:** [Airbnb Open Data]([https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ---
 
-### **📈 Questions (KPIs) Addressed**
+### **Questions (KPIs) Addressed**
 
 1. What is the **average price per number of bedrooms**?
 2. How many **listings exist per bedroom category**?
@@ -24,7 +25,7 @@ The objective of this project is to analyze Airbnb listing data to uncover prici
 
 ---
 
-### **⚙️ Process**
+### **Process**
 
 1. **Data Collection:** Gathered Airbnb dataset containing details like bedrooms, zipcode, prices, and calendar dates.
 2. **Data Cleaning:**
@@ -49,13 +50,13 @@ The objective of this project is to analyze Airbnb listing data to uncover prici
 
 ---
 
-### **📊 Dashboard**
+### **Dashboard**
 
 ![Global Airbnb Trends Dashboard](Screenshot%202025-10-18%20154847.png)
 
 ---
 
-### **💡 Project Insights**
+### **Project Insights**
 
 * **1-bedroom listings** dominate the market with the highest count (≈1,800+).
 * **Average price** increases steadily with the number of bedrooms — from **$96.2** (1 bedroom) to **$584.8** (6 bedrooms).
@@ -64,7 +65,7 @@ The objective of this project is to analyze Airbnb listing data to uncover prici
 
 ---
 
-### **✅ Final Conclusion**
+### **Final Conclusion**
 
 The analysis reveals a clear correlation between the **number of bedrooms and price**, emphasizing how property size impacts rental value. Geographic location also plays a significant role, with urban zipcodes commanding higher prices. The dashboard effectively visualizes Airbnb’s market dynamics, providing actionable insights for hosts, investors, and analysts to optimize pricing and maximize revenue.
 
